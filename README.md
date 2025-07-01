@@ -12,4 +12,4 @@ Este programa Taxímetro CLI (Interfaz de Línea de Comandos) está escrito en P
 
 ## 🛠️ Capturas de pantalla
 
-- Enlace al tablero Kanban utilizado para la organización del proyecto:
+- Enlace al tablero Kanban utilizado para la organización del proyecto: https://github.com/orgs/Factoria-F5-madrid/projects/3
