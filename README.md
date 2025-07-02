@@ -8,10 +8,10 @@ Este programa Taxímetro CLI (Interfaz de Línea de Comandos) está escrito en P
 
 ### 🟢 Nivel Esencial
 
-- El programa permite iniciar y finalizar trayectos, pausando el viaje en cualquier punto del trayecto. En cualquier momento del trayecto el viajero puede solicitar al conductor la pausa del viaje (y la parada del vehículo porque necesite realizar alguna gestión personal fuera del mismo). Durante el viaje, la tarifa a pagar es más baja mientras éste está pausado.
-- Logs de ejecución (persistentes en fichero)
-- Interfaz de línea de comandos con colores y formato mejorado
+- El programa permite iniciar y finalizar trayectos, pausando el viaje en cualquier punto del trayecto. En cualquier momento del trayecto el viajero puede solicitar al conductor la pausa del viaje (y la parada del vehículo porque necesite realizar alguna gestión personal fuera del mismo).
 - Tarifas diferenciadas: 2 céntimos/segundo (parado) y 5 céntimos/segundo (en movimiento)
+- Interfaz de línea de comandos con colores y formato mejorado
+
 
 ## 🚀 Instrucciones de Ejecución
 
