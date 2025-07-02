@@ -28,7 +28,14 @@ Este programa Taxímetro CLI (Interfaz de Línea de Comandos) está escrito en P
    cd P1_IgnacioCastilloFranco
    ```
 
-2. **Instalar dependencias:**
+2. **Crear y activar un entorno virtual (recomendado):**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # En Linux/macOS
+   # venv\Scripts\activate   # En Windows
+   ```
+
+3. **Instalar dependencias:**
    ```bash
    pip install -r requirements.txt
    ```
@@ -38,9 +45,14 @@ Este programa Taxímetro CLI (Interfaz de Línea de Comandos) está escrito en P
    - `colorlog`: Para logging con colores
    - `wcwidth`: Para manejo de caracteres Unicode
 
-3. **Ejecutar el programa:**
+4. **Ejecutar el programa:**
    ```bash
    python main.py
+   ```
+
+5. **Desactivar el entorno virtual (cuando termines):**
+   ```bash
+   deactivate
    ```
 
 ### 📋 Comandos Disponibles
