@@ -100,6 +100,6 @@ El programa genera automáticamente archivos de log con el formato:
 
 Estos archivos contienen un registro detallado de todas las operaciones realizadas durante la sesión.
 
-## 🛠️ Capturas de pantalla
+## 🛠️ Gestión del Proyecto
 
 - Enlace al tablero Kanban utilizado para la organización del proyecto: https://github.com/orgs/Factoria-F5-madrid/projects/3
